@@ -1,0 +1,37 @@
+/* .inventada{
+    position:relative;
+    top: ;
+    right: ;
+    bottom:;
+    left:;
+} */
+
+.box{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: white;
+    margin-top: 200px;
+}
+/* Posicion relativa */
+/* .dos{
+    position: relative;
+    background-color: blue;
+    top: 20px;
+    left: 20px;
+} */
+.cuatro{
+    position: relative;
+    background-color: greenyellow;
+    bottom: 20px;
+    right: 20px;
+}
+
+/* Posicion absoluta */
+.dos{
+    position: absolute;
+    background-color: blue;
+    top: 20px;
+    left: 20px;
+}

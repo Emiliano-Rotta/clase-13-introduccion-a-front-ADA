@@ -1,0 +1,15 @@
+@media (min-width: 576px) {
+    .titulo{
+        color: red;
+        font-family: 'Gill Sans';
+    }
+    
+}
+
+@media (max-width: 576px) {
+    .titulo{
+        color: greenyellow;
+        font-family:Verdana;
+    }
+    
+}
