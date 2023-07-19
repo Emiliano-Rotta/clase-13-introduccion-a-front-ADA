@@ -1,4 +1,4 @@
-Para el dia lunes, hacer estos ejercicios en este orden:
+Para el dia lunes 24 de julio, hacer estos ejercicios en este orden:
 
 1) Hacer ejercicio Media query .
 Consigna: utilizando los 5 medios de quiebre vistos en clase, hacer un boton hamburguesa (que solo se vea el boton) para el punto de quiebre small
